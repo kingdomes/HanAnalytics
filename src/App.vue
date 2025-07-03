@@ -14,8 +14,14 @@
         <Alert>
           <AlertDescription>
             <p>· 托管在 Cloudflare Pages 上的网站分析仪表板。</p>
-            <p style="font-weight: bold;">· 开源地址: <a class="git-link" href="https://github.com/uxiaohan/HanAnalytics"
-                target="_blank">People の Web分析</a>
+            <p style="font-weight: bold;">
+              · 开源地址:
+              <a
+                class="git-link"
+                href="https://github.com/uxiaohan/HanAnalytics"
+                target="_blank"
+              >People の Web分析</a>
+            </p>
           </AlertDescription>
         </Alert>
       </header>
