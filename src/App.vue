@@ -14,11 +14,36 @@
         <Alert>
           <AlertDescription>
             <p>· 托管在 Cloudflare Pages 上的网站分析仪表板。</p>
-            <p><a href="https://icp.gov.moe/?keyword=20258005" target="_blank">萌ICP备20258005号</a>
-<span style="margin: 0 8px;">|</span>
-<a href="https://travel.moe/go.html" target="_blank">
-    <img src="https://travel.moe/images/logo/gif-kt/startup-default.gif" style="vertical-align: middle; height: 36px;" title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！">
-</a><p>
+            <template>
+  <div class="footer-links">
+    <a href="https://icp.gov.moe/?keyword=20258005" target="_blank">萌ICP备20258005号</a>
+    <span class="separator">|</span>
+    <a href="https://travel.moe/go.html" target="_blank">
+      <img
+        src="https://travel.moe/images/logo/gif-kt/startup-default.gif"
+        alt="异次元之旅"
+        title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！"
+      />
+    </a>
+  </div>
+</template>
+
+<style scoped>
+.footer-links {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* 可移除以左对齐 */
+  gap: 8px;
+  font-size: 14px;
+}
+.footer-links img {
+  height: 36px;
+  width: auto;
+}
+.separator {
+  margin: 0 4px;
+}
+</style>
             <p style="font-weight: bold;">· 开源地址: <a class="git-link" href="https://github.com/uxiaohan/HanAnalytics"
                 target="_blank">Han-Analytics</a>
             </p>
