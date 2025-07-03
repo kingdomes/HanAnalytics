@@ -1,4 +1,4 @@
-<template>
+template>
   <section class="han_analytics">
     <header>
       <div class="main">
@@ -14,12 +14,10 @@
         <Alert>
           <AlertDescription>
             <p>· 托管在 Cloudflare Pages 上的网站分析仪表板。</p>
-
-<p style="font-weight: bold;">· 开源地址: <a class="git-link" href="https://github.com/uxiaohan/HanAnalytics"
-    target="_blank">Han-Analytics</a>
-</p>
-
-<p style="display: flex; align-items: center; gap: 8px;">
+            <p style="font-weight: bold;">· 开源地址: <a class="git-link" href="https://github.com/uxiaohan/HanAnalytics"
+                target="_blank">Han-Analytics</a>
+            </p>
+            <p style="display: flex; align-items: center; gap: 8px;">
   <a href="https://icp.gov.moe/?keyword=20258005" target="_blank">萌ICP备20258005号</a>
   <span>|</span>
   <a href="https://travel.moe/go.html" target="_blank">
@@ -30,9 +28,6 @@
     />
   </a>
 </p>
-
-                target="_blank">Han-Analytics</a>
-            </p>
           </AlertDescription>
         </Alert>
       </header>
