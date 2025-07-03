@@ -16,8 +16,7 @@ template>
             <p>· 托管在 Cloudflare Pages 上的网站分析仪表板。</p>
             <p style="font-weight: bold;">· 开源地址: <a class="git-link" href="https://github.com/uxiaohan/HanAnalytics"
                 target="_blank">Han-Analytics</a>
-            </p>
-            <p style="display: flex; align-items: center; gap: 8px;">
+            <div style="display: flex; align-items: center; gap: 8px;">
   <a href="https://icp.gov.moe/?keyword=20258005" target="_blank">萌ICP备20258005号</a>
   <span>|</span>
   <a href="https://travel.moe/go.html" target="_blank">
@@ -27,7 +26,7 @@ template>
       title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！"
     />
   </a>
-</p>
+</div>
           </AlertDescription>
         </Alert>
       </header>
