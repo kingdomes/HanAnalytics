@@ -1,4 +1,4 @@
-template>
+<template>
   <section class="han_analytics">
     <header>
       <div class="main">
