@@ -21,6 +21,18 @@
                 href="https://github.com/uxiaohan/HanAnalytics"
                 target="_blank"
               >People の Web分析</a>
+              <!-- 这里开始添加备案和图片部分 -->
+              <div style="display: flex; align-items: center; gap: 8px; margin-top: 4px;">
+                <a href="https://icp.gov.moe/?keyword=20258005" target="_blank">萌ICP备20258005号</a>
+                <span>|</span>
+                <a href="https://travel.moe/go.html" target="_blank">
+                  <img
+                    src="https://travel.moe/images/logo/gif-kt/startup-default.gif"
+                    style="height: 24px; width: auto; vertical-align: middle;"
+                    title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！"
+                  />
+                </a>
+              </div>
             </p>
           </AlertDescription>
         </Alert>
