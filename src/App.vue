@@ -15,18 +15,7 @@ template>
           <AlertDescription>
             <p>· 托管在 Cloudflare Pages 上的网站分析仪表板。</p>
             <p style="font-weight: bold;">· 开源地址: <a class="git-link" href="https://github.com/uxiaohan/HanAnalytics"
-                target="_blank">Han-Analytics</a>
-            <div style="display: flex; align-items: center; gap: 8px;">
-  <a href="https://icp.gov.moe/?keyword=20258005" target="_blank">萌ICP备20258005号</a>
-  <span>|</span>
-  <a href="https://travel.moe/go.html" target="_blank">
-    <img
-      src="https://travel.moe/images/logo/gif-kt/startup-default.gif"
-      style="height: 24px; width: auto; vertical-align: middle;"
-      title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！"
-    />
-  </a>
-</div>
+                target="_blank">People の Web分析</a>
           </AlertDescription>
         </Alert>
       </header>
